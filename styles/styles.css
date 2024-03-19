@@ -157,8 +157,12 @@ pre {
 /* buttons */
 
 a.button:any-link, button {
+/* RUG
   color: var(--button-text-color);
   background-color: var(--button-background-color);
+  */
+  color: white;
+  background-color: #e20074;
   text-transform: uppercase;
   font-size: 14px;
   padding: var(--button-padding);
