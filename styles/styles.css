@@ -12,7 +12,9 @@
 
  :root {
   /* colors */
-  --color-yellow: #ffea00;
+  /* --> RUG
+  --color-yellow: #ffea00; */
+  --color-yellow: #e20074;
   --link-color: black;
   --link-hover-color: black;
   --background-color: #fff;
